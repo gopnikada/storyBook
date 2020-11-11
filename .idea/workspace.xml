@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61ee8bff-7517-4866-a4e2-d45e5295984c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3FJbaANkBebkXVYLGRrPM2EUA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="task.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/task.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.task.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ee8bff-7517-4866-a4e2-d45e5295984c" name="Default Changelist" comment="" />
+      <created>1604921296793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604921296793</updated>
+      <workItem from="1604921297896" duration="22860000" />
+      <workItem from="1604998980424" duration="3362000" />
+      <workItem from="1605019142507" duration="11264000" />
+      <workItem from="1605081018243" duration="7916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604922382091">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="439" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1604922382091" />
+    <state x="413" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605019187494">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="129" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605019187494" />
+    <state x="441" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604950919981">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="441" y="252" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1604950919981" />
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom" timestamp="1604948252105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604948252105" />
+    <state width="1344" height="187" key="GridCell.Tab.0.center" timestamp="1604948252105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604948252105" />
+    <state width="1344" height="187" key="GridCell.Tab.0.left" timestamp="1604948252105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604948252105" />
+    <state width="1344" height="187" key="GridCell.Tab.0.right" timestamp="1604948252105">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604948252105" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1604937041227">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1604937041227" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1605028916720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1605028916720" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1604936812195">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1604936812195" />
+  </component>
+</project>
